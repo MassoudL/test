@@ -1,0 +1,81 @@
+.headimage1 {
+    position: relative;
+    background-image:url("../images/design1_image1.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    z-index: 0;
+}
+
+
+.image_title {
+    position: absolute;
+    top: -5%;
+    left: 25%;
+    font-size: 45px;
+    color: white
+}
+
+.logo {
+    position: absolute;
+    float: right;
+    height: 150px;
+    margin-top: -65px;
+    margin-left: 890px;
+    z-index: 1;
+}
+
+.sub_title {
+    background: black;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    margin: -3px;
+    height: 30px;
+}
+
+.nav_group {
+    display: block;
+    box-sizing: content-box;
+    width: 87px;
+    color: blue;
+    text-decoration: underline;
+    text-align: left;
+    padding: 50px;
+    
+}
+
+.nav_group a {
+    display: block;
+    margin-bottom: 30px;
+    margin-top: 50px
+}
+
+.content {
+
+    width: 400px;
+    height: 200px;
+    padding: 12px;
+    margin: 5px;
+    text-align: center;
+    float: right;
+    margin-right: 440px;
+    margin-top: -315px;
+}
+
+
+.content p {
+    box-sizing: content-box;
+    width:  700px;
+    padding: 10px;
+    margin: 20px;
+    text-align: left;
+    text-indent: 5px;
+    
+}
+
+.content a {
+    
+    text-align: left;
+}
+

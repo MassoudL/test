@@ -1,0 +1,178 @@
+.headimage1 {
+    display: flex;
+    justify-content: space-between;
+    background-image: url("../images/design3_image1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+    margin-top: 0;
+    margin-right:
+        z-index: 0;
+
+}
+
+
+.image_title {
+    font-family: Arial;
+    position: absolute;
+    top: 30%;
+    left: 14%;
+    font-style: normal;
+    font-size: 65px;
+    color: darkgreen;
+    text-shadow: 5px 8px 8px black;
+    margin-bottom: 100px;
+}
+
+.logo {
+
+    position: absolute;
+    width: 57px;
+    height: 57px;
+    margin-top: -550px;
+    margin-left: 1px;
+    z-index: 1;
+}
+
+.sub_title {
+    font-family: Arial;
+    margin-top: 15px;
+    margin-bottom: 25px;
+
+}
+
+.background_sub_title {
+    background: black;
+    color: white;
+    position: absolute;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    height: 61px;
+    width: 1248px;
+
+
+}
+
+.nav_group {
+    font-family: Arial;
+    display: flex;
+    justify-content: space-between;
+    color: black;
+    top: 550px;
+
+}
+
+.nav_group a {
+
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    line-height: 50px;
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: bold;
+    width: 204px;
+    display: inline-block;
+    border: 1px;
+    background-color: darkseagreen;
+    color: white;
+    height: 50px;
+    text-decoration: none;
+
+}
+
+
+.nav_group a:hover {
+
+    background-color: white;
+    color: darkseagreen;
+    font-family: Arial;
+}
+
+
+.content {
+
+    font-family: Arial;
+    text-align: left;
+    margin-top: 5%;
+    margin-bottom: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 12px;
+    text-align: justify;
+
+}
+
+.content p {
+    font-family: arial;
+    box-sizing: content-box;
+    width: 700px;
+    padding: 10px;
+    margin: 20px;
+    text-align: left;
+    text-indent: 5px;
+
+}
+
+.content a {
+
+    text-align: right;
+    font-family: arial;
+    margin-left: 5%;
+    font-family: Arial;
+}
+
+.legend_title {
+
+    text-align: center;
+}
+
+}
+
+.space > li > h3 {
+    display: inline;
+}
+
+table {
+
+    width: 100%;
+
+}
+
+td {
+    border: 1px solid black;
+    width: 100px;
+    height: 5%;
+    padding: 10px;
+    text-align: left;
+    color: black;
+    background: darkseagreen;
+}
+
+th {
+
+    width: 100px;
+    height: 5%;
+    padding: 10px;
+    text-align: left;
+    color: black;
+    background: darkseagreen;
+}
+
+.location {
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.footer_container {
+
+    background-color: darkseagreen;
+    width: 100%;
+    padding-top: 60px 0px;
+    border-top: 50px solid black;
+
+    
+}
